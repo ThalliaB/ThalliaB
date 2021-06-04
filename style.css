@@ -1,4 +1,3 @@
-img[alt="perfil do github"] {
-    max-width: 20px;
-    display: block;
+img {
+    display: inline;
 }
