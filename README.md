@@ -1,6 +1,9 @@
-<img src="https://user-images.githubusercontent.com/79876271/124134612-610b3100-da59-11eb-947b-0a8934976f8a.jpg" text-alignh="center" width="400px"/>
+# 🌸Olá! Meu nome é Thallia Brum.
+## 🌸Seja bem-vindo ao meu perfil ;)
 
-- 👋 Oii meu nome é Thallia Brum
+<img src="https://user-images.githubusercontent.com/79876271/124190790-38a32700-da99-11eb-8ab0-f845a37dc04d.png">
+
+
 - 👀 Amo ler...
 - 🌱 E também sou programadora...
 - 💞️ Faço front-end e trabalho em projetinhos meusss...
