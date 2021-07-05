@@ -29,7 +29,7 @@
 <br>
 <!-- Octocat -->
 <p>
-  <img width="600px" src="https://user-images.githubusercontent.com/79876271/124362082-4ecff500-dc09-11eb-9f13-539e44ddc5be.png"
+  <img width="500px" src="https://user-images.githubusercontent.com/79876271/124362082-4ecff500-dc09-11eb-9f13-539e44ddc5be.png"
 </p> 
   
 <p>☆ Inspirada em <a href="https://github.com/rafaballerini">rafaballerini</a></p>
