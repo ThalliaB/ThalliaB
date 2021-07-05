@@ -11,7 +11,7 @@
 
 <div>
   <p>
-    <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalliaB&layout=compact&theme=graywhite&title_color=268bd2" alt="Thallia    Brum" />
+    <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalliaB&layout=compact&langs_count=16&theme=dracula" alt="Thallia    Brum" />
   </p>
   
   <p>
@@ -19,17 +19,17 @@
   </p>
 </div>  
   
- #### - 👀 Amo ler...
- #### - 🌱 E também sou programadora...
- #### - 💞️ Faço front-end e trabalho em projetinhos meusss...
- #### - 📫 Você pode me achar também no Facebook => Thallia Brum ...
+- 👀 Amo ler...
+- 🌱 E também sou programadora...
+- 💞️ Faço front-end e trabalho em projetinhos meusss...
+- 📫 Você pode me achar também no Facebook => Thallia Brum ...
   
 
 
 <br>
 <!-- Octocat -->
 <p>
-  <img align="left" width="600px" src="https://user-images.githubusercontent.com/79876271/124362082-4ecff500-dc09-11eb-9f13-539e44ddc5be.png"
+  <img width="600px" src="https://user-images.githubusercontent.com/79876271/124362082-4ecff500-dc09-11eb-9f13-539e44ddc5be.png"
 </p> 
   
 
