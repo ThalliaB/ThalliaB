@@ -17,11 +17,17 @@
   <p>
     <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ThalliaB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
   </p>
-</div> 
+</div>
+
+<br>
+  <!-- Octocat -->
+  <p>
+    <img align="right" width="400px" src="https://user-images.githubusercontent.com/79876271/124362082-4ecff500-dc09-11eb-9f13-539e44ddc5be.png"
+  </p> 
  
-- 👀 Amo ler...
-- 🌱 E também sou programadora...
-- 💞️ Faço front-end e trabalho em projetinhos meusss...
+- 💥 Apreciadora de livros bons, códigos e chás...
+- 💞️ Sou proramadora front-end e trabalho em projetinhos meusss...
+-  💻 Atualmente estudante em Java do Projeto Edutech-PR 
 
 <!-- badges -->
 <div>
@@ -31,16 +37,10 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 </div>
 
-<br>
-  <!-- Octocat -->
-  <p>
-    <img width="500px" src="https://user-images.githubusercontent.com/79876271/124362082-4ecff500-dc09-11eb-9f13-539e44ddc5be.png"
-  </p> 
-
-  
+<!--   
 <p>☆ Inspirada em <a href="https://github.com/rafaballerini">rafaballerini</a></p>
 
-
+ -->
 
 
 <!---
