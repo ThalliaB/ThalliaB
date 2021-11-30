@@ -1,5 +1,4 @@
-# ✨Olá! Meu nome é Thallia Brum.
-## 🌸Seja bem-vindo ao meu perfil ;)
+# ✨Hello! My name is Thallia Brum.
 
 <br>
 
@@ -24,14 +23,17 @@
   <p>
     <img align="right" width="400px" src="https://user-images.githubusercontent.com/79876271/124362082-4ecff500-dc09-11eb-9f13-539e44ddc5be.png"
   </p> 
- 
-- 💥 Apreciadora de bons livros, códigos e chás...
-- 💞️ Sou proramadora front-end e trabalho em projetinhos meusss...
--  💻 Atualmente estudante em Java do Projeto Edutech-PR 
+  
+- 👩🏻 17 years old
+- 🎉I am currently finishing the third year of high school.
+- 🖥 For my future I intend to do Systems Analysis and Development
+- 💥 Appreciator of good books, codes and teas...
+- 💞️ I'm a front-end programmer and I work on my own projects...
+- 💻 Currently a Java student at the Edutech-PR Project
 <h2>
 <!-- badges -->
  
-  ### Você pode me contatar por:
+  ### You can contact me by:
 
 <div>
   <a href="mailto:thalliajb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
@@ -42,7 +44,7 @@
 
 <h2>
 
-### Minhas linguagens:
+### My languages:
 
 <div>
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
