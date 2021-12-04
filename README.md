@@ -26,6 +26,7 @@
   
 - 👩🏻 17 years old
 - 🎉I am currently finishing the third year of high school.
+- 📗 Basic English Student at <a href="https://jumpercursos.com.br/">Jumper - Profissões e idiomas</a>
 - 🖥 For my future I intend to do Systems Analysis and Development
 - 💥 Appreciator of good books, codes and teas...
 - 💞️ I'm a front-end programmer and I work on my own projects...
