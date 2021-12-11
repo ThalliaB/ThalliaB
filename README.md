@@ -32,6 +32,7 @@
 - 💞️ I'm a front-end programmer and I work on my own projects...
 - 💻 Currently a Java student at the Edutech-PR Project
 <h2>
+  
 <!-- badges -->
  
   ### You can contact me by:
