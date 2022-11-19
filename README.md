@@ -30,7 +30,6 @@
 - 🖥 For my future I intend to do Systems Analysis and Development
 - 💥 Appreciator of good books, codes and teas...
 - 💞️ I'm a front-end programmer and I work on my own projects...
-- 💻 Currently a Java student at the Edutech-PR Project
 <h2>
   
 <!-- badges -->
