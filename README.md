@@ -24,10 +24,9 @@
     <img align="right" width="400px" src="https://user-images.githubusercontent.com/79876271/124362082-4ecff500-dc09-11eb-9f13-539e44ddc5be.png"
   </p> 
   
-- 👩🏻 17 years old
-- 🎉I am currently finishing the third year of high school.
+- 👩🏻 18 years old
+- 🎉I am currently studying Systems Analysis and Development.
 - 📗 Intermediate English Student at <a href="https://jumpercursos.com.br/">Jumper - Profissões e idiomas</a>
-- 🖥 For my future I intend to do Systems Analysis and Development
 - 💥 Appreciator of good books, codes and teas...
 - 💞️ I'm a front-end programmer and I work on my own projects...
 <h2>
