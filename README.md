@@ -7,8 +7,10 @@
 </p> -->
   
  <!-- linguagens -->
+ 
+ [![Thallia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalliaB&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<div>
+<!-- <div>
   <p>
     <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalliaB&layout=compact&langs_count=16&theme=dracula" alt="Thallia    Brum" />
   </p>
@@ -16,7 +18,7 @@
   <p>
     <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ThalliaB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
   </p>
-</div>
+</div> -->
 
 <br>
   <!-- Octocat -->
