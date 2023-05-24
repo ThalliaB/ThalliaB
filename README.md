@@ -7,18 +7,13 @@
 </p> -->
   
  <!-- linguagens -->
- 
- [![Thallia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalliaB&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ThalliaB&show_icons=true&theme=transparent&count_private=true" />
+</a>
 
-<!-- <div>
-  <p>
-    <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalliaB&layout=compact&langs_count=16&theme=dracula" alt="Thallia    Brum" />
-  </p>
-  
-  <p>
-    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ThalliaB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  </p>
-</div> -->
+<a href="https://github.com/ThalliaB/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalliaB&theme=transparent&count_private=true&layout=donut" />
+</a>
 
 <br>
   <!-- Octocat -->
@@ -69,9 +64,3 @@
 <p>☆ Inspirada em <a href="https://github.com/rafaballerini">rafaballerini</a></p>
 
  -->
-
-
-<!---
-ThalliaB/ThalliaB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
