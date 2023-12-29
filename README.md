@@ -21,7 +21,7 @@
     <img align="right" width="400px" src="https://user-images.githubusercontent.com/79876271/124362082-4ecff500-dc09-11eb-9f13-539e44ddc5be.png"
   </p> 
   
-- 👩🏻 18 years old
+- 👩🏻 19 years old
 - 🎉I am currently studying Systems Analysis and Development.
 - 📗 Advanced English Student at <a href="https://jumpercursos.com.br/">Jumper - Profissões e idiomas</a>
 - 💥 Appreciator of good books, codes and teas...
