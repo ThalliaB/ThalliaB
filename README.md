@@ -22,8 +22,8 @@
   </p> 
   
 - 👩🏻 19 years old
-- 🎉I am currently studying Systems Analysis and Development.
-- 📗 Advanced English Student at <a href="https://jumpercursos.com.br/">Jumper - Profissões e idiomas</a>
+- 🎉 I am currently studying Systems Analysis and Development.
+- 📗 English Teacher at <a href="https://jumpercursos.com.br/">Jumper - Profissões e idiomas</a>
 - 💥 Appreciator of good books, codes and teas...
 - 💞️ I'm a front-end programmer and I work on my own projects...
 <h2>
