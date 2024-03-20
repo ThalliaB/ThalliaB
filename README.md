@@ -26,7 +26,6 @@
 - 📗 English Teacher at <a href="https://jumpercursos.com.br/">Jumper - Profissões e idiomas</a>
 - 💥 Appreciator of good books, codes and teas...
 - 💞️ I'm a front-end programmer and I work on my own projects...
-<h2>
   
 <!-- badges -->
  
@@ -39,7 +38,6 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 </div>
 
-<h2>
 
 ### My languages:
 
